@@ -40,6 +40,7 @@
 ## Object Detection
 
 * General
+
 [Deep Learning for Generic Object Detection: A Survey](https://arxiv.org/pdf/1809.02165.pdf)
 
 * YOLO   
