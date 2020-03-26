@@ -1,4 +1,4 @@
-# Deep Learning Papers Translation(CV)
+# List of deep learning by classification
 
 
 ## Image Classification
