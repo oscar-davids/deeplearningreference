@@ -98,9 +98,7 @@
 
 ##
 
-## Paper list from 2014 to now(2019)
-The part highlighted with red characters means papers that i think "must-read".
-However, it is **my personal opinion** and other papers are important too, so I recommend to read them if you have time.
+## Paper list from 2014
 
 <p align="center">
   <img width="1000" src="/image/deep_learning_object_detection_history.PNG" "Example of object detection.">
@@ -526,7 +524,6 @@ FPS(Speed) index is related to the hardware spec(e.g. CPU, GPU, RAM, etc), so it
 - Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression | **[AAAI' 20]** |[`[pdf]`](https://arxiv.org/pdf/1911.08287v1.pdf)
 
 - Computation Reallocation for Object Detection | **[ICLR' 20]** |[`[pdf]`](https://openreview.net/pdf?id=SkxLFaNKwB)
-
 
 ##
 
